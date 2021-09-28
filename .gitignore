@@ -1,3 +1,5 @@
+config
+.sfdx
 .project
 .settings
 salesforce.schema
