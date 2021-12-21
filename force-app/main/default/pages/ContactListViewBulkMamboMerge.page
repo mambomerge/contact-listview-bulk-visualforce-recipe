@@ -19,7 +19,7 @@
 
   <script>
     // TODO (REQUIRED): Please enter your template Id in the var below
-    const templateId = "";
+    const templateId = "ContactListViewBulk";
 
     // TODO (REQUIRED): Please specify whether you are using checkboxes on your list view
     const mergeOnlyCheckedRecordsInListView = true;

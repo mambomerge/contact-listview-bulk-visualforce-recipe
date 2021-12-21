@@ -15,16 +15,16 @@ This recipe will step you through creating a button for Contact List Views to ge
 
 4. Upload your docx Template onto the Files tab by following these instructions: https://www.mambomerge.com/support/how-to-use-mambo-merge-to-generate-a-new-word-docx-file-drag-and-drop-copy/
 
-5. Create a new Mambo Merge Configuration with Id ContactListViewBatch as follows:
+5. Create a new Mambo Merge Configuration with Id ContactListViewBulk as follows:
 
 5a. Click on the down arrow in the top right corner of Mambo Merge and choose Setup
 
-5b. Create a new Configuration named ContactListViewBatch
+5b. Create a new Configuration named ContactListViewBulk
 
 5c. Add a new button to the configuration and specify your Template Id
 
 5d. Save the Configuration
 
-6. Create a new Custom Button for List Views on the Contact Object that uses the ContactListViewBatchMamboMerge page
+6. Create a new Custom Button for List Views on the Contact Object that uses the ContactListViewBulkMamboMerge page
 
 7. Edit the Contact Classic Search Layout to display the new button
