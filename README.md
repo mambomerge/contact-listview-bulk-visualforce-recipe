@@ -1,4 +1,4 @@
-# contact-listview-using-visualforce-recipe
+# contact-listview-bulk-visualforce-recipe
 
 This recipe will step you through creating a button for Contact List Views to generate a single docx file per selected record.
 
